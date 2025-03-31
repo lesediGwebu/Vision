@@ -32,6 +32,12 @@ function App() {
       description: "Skilled in both frontend and backend, passionate about solving complex problems.",
       image: logo
     }
+        {
+      name: "Lesedi Gwebu",
+      role: "Cybersecurity",
+      description: "Skilled in cybersecurity, networking and also software engineering.",
+      image: logo
+    }
   ];
 
   return (
